@@ -1,0 +1,5 @@
+# CAEN
+Host shutas
+  HostName login.engin.umich.edu
+  User shutas
+  Compression yes
